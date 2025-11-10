@@ -1,0 +1,2 @@
+C:\Users\steli\source\repos\BlazorLayout\wwwroot\css\bootstrap\bootstrap.min.css
+C:\Users\steli\source\repos\BlazorLayout\wwwroot\css\bootstrap\bootstrap.min.css.map
