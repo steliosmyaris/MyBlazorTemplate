@@ -1,0 +1,16 @@
+.navStyle[b-pyi2laq654]{
+    background-color: var(--cf-theme-850);
+}
+
+.nav-item[b-pyi2laq654]{
+    --bs-navbar-hover-color: var(--cf-theme-400);
+    --bs-nav-link-hover-color: var(--cf-theme-400);
+}
+
+.dropdown-menu[b-pyi2laq654] {
+    background-color: var(--cf-theme-900);
+}
+
+.dropdown:has(.nav-link.active) .dropdown-toggle[b-pyi2laq654] {
+    color: var(--bs-navbar-active-color);
+}

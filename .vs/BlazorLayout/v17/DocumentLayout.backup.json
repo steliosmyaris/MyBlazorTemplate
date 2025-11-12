@@ -3,40 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\steli\\source\\repos\\BlazorLayout\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D10223C1-294B-453F-ADA8-3894E0A35AF7}|BlazorLayout.csproj|c:\\users\\steli\\source\\repos\\blazorlayout\\layout\\topnavmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D10223C1-294B-453F-ADA8-3894E0A35AF7}|BlazorLayout.csproj|solutionrelative:layout\\topnavmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D10223C1-294B-453F-ADA8-3894E0A35AF7}|BlazorLayout.csproj|c:\\users\\steli\\source\\repos\\blazorlayout\\layout\\topnavfooter.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D10223C1-294B-453F-ADA8-3894E0A35AF7}|BlazorLayout.csproj|solutionrelative:layout\\topnavfooter.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D10223C1-294B-453F-ADA8-3894E0A35AF7}|BlazorLayout.csproj|c:\\users\\steli\\source\\repos\\blazorlayout\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D10223C1-294B-453F-ADA8-3894E0A35AF7}|BlazorLayout.csproj|solutionrelative:pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D10223C1-294B-453F-ADA8-3894E0A35AF7}|BlazorLayout.csproj|c:\\users\\steli\\source\\repos\\blazorlayout\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D10223C1-294B-453F-ADA8-3894E0A35AF7}|BlazorLayout.csproj|solutionrelative:pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D10223C1-294B-453F-ADA8-3894E0A35AF7}|BlazorLayout.csproj|c:\\users\\steli\\source\\repos\\blazorlayout\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D10223C1-294B-453F-ADA8-3894E0A35AF7}|BlazorLayout.csproj|solutionrelative:pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D10223C1-294B-453F-ADA8-3894E0A35AF7}|BlazorLayout.csproj|c:\\users\\steli\\source\\repos\\blazorlayout\\layout\\topnavlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D10223C1-294B-453F-ADA8-3894E0A35AF7}|BlazorLayout.csproj|solutionrelative:layout\\topnavlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D10223C1-294B-453F-ADA8-3894E0A35AF7}|BlazorLayout.csproj|c:\\users\\steli\\source\\repos\\blazorlayout\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D10223C1-294B-453F-ADA8-3894E0A35AF7}|BlazorLayout.csproj|solutionrelative:app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D10223C1-294B-453F-ADA8-3894E0A35AF7}|BlazorLayout.csproj|c:\\users\\steli\\source\\repos\\blazorlayout\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D10223C1-294B-453F-ADA8-3894E0A35AF7}|BlazorLayout.csproj|solutionrelative:layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D10223C1-294B-453F-ADA8-3894E0A35AF7}|BlazorLayout.csproj|c:\\users\\steli\\source\\repos\\blazorlayout\\layout\\topnavfooter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D10223C1-294B-453F-ADA8-3894E0A35AF7}|BlazorLayout.csproj|solutionrelative:layout\\topnavfooter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D10223C1-294B-453F-ADA8-3894E0A35AF7}|BlazorLayout.csproj|c:\\users\\steli\\source\\repos\\blazorlayout\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D10223C1-294B-453F-ADA8-3894E0A35AF7}|BlazorLayout.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D10223C1-294B-453F-ADA8-3894E0A35AF7}|BlazorLayout.csproj|c:\\users\\steli\\source\\repos\\blazorlayout\\layout\\topnavlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D10223C1-294B-453F-ADA8-3894E0A35AF7}|BlazorLayout.csproj|solutionrelative:layout\\topnavlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D10223C1-294B-453F-ADA8-3894E0A35AF7}|BlazorLayout.csproj|c:\\users\\steli\\source\\repos\\blazorlayout\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D10223C1-294B-453F-ADA8-3894E0A35AF7}|BlazorLayout.csproj|solutionrelative:layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D10223C1-294B-453F-ADA8-3894E0A35AF7}|BlazorLayout.csproj|c:\\users\\steli\\source\\repos\\blazorlayout\\layout\\topnavmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D10223C1-294B-453F-ADA8-3894E0A35AF7}|BlazorLayout.csproj|solutionrelative:layout\\topnavmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D10223C1-294B-453F-ADA8-3894E0A35AF7}|BlazorLayout.csproj|c:\\users\\steli\\source\\repos\\blazorlayout\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{D10223C1-294B-453F-ADA8-3894E0A35AF7}|BlazorLayout.csproj|solutionrelative:wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D10223C1-294B-453F-ADA8-3894E0A35AF7}|BlazorLayout.csproj|c:\\users\\steli\\source\\repos\\blazorlayout\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D10223C1-294B-453F-ADA8-3894E0A35AF7}|BlazorLayout.csproj|solutionrelative:layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D10223C1-294B-453F-ADA8-3894E0A35AF7}|BlazorLayout.csproj|c:\\users\\steli\\source\\repos\\blazorlayout\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D10223C1-294B-453F-ADA8-3894E0A35AF7}|BlazorLayout.csproj|solutionrelative:layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D10223C1-294B-453F-ADA8-3894E0A35AF7}|BlazorLayout.csproj|c:\\users\\steli\\source\\repos\\blazorlayout\\wwwroot\\css\\themes.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D10223C1-294B-453F-ADA8-3894E0A35AF7}|BlazorLayout.csproj|solutionrelative:wwwroot\\css\\themes.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D10223C1-294B-453F-ADA8-3894E0A35AF7}|BlazorLayout.csproj|c:\\users\\steli\\source\\repos\\blazorlayout\\layout\\topnavmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D10223C1-294B-453F-ADA8-3894E0A35AF7}|BlazorLayout.csproj|solutionrelative:layout\\topnavmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -49,124 +57,147 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Weather.razor",
-              "DocumentMoniker": "C:\\Users\\steli\\source\\repos\\BlazorLayout\\Pages\\Weather.razor",
-              "RelativeDocumentMoniker": "Pages\\Weather.razor",
-              "ToolTip": "C:\\Users\\steli\\source\\repos\\BlazorLayout\\Pages\\Weather.razor",
-              "RelativeToolTip": "Pages\\Weather.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-10T22:36:40.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\steli\\source\\repos\\BlazorLayout\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\steli\\source\\repos\\BlazorLayout\\Pages\\Home.razor",
-              "RelativeToolTip": "Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-10T22:35:34.753Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Counter.razor",
-              "DocumentMoniker": "C:\\Users\\steli\\source\\repos\\BlazorLayout\\Pages\\Counter.razor",
-              "RelativeDocumentMoniker": "Pages\\Counter.razor",
-              "ToolTip": "C:\\Users\\steli\\source\\repos\\BlazorLayout\\Pages\\Counter.razor",
-              "RelativeToolTip": "Pages\\Counter.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-10T22:35:12.433Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TopNavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\steli\\source\\repos\\BlazorLayout\\Layout\\TopNavMenu.razor",
-              "RelativeDocumentMoniker": "Layout\\TopNavMenu.razor",
-              "ToolTip": "C:\\Users\\steli\\source\\repos\\BlazorLayout\\Layout\\TopNavMenu.razor",
-              "RelativeToolTip": "Layout\\TopNavMenu.razor",
-              "ViewState": "AgIAABIAAAAAAAAAAAAiwB4AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-10T21:52:02.351Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "TopNavLayout.razor",
               "DocumentMoniker": "C:\\Users\\steli\\source\\repos\\BlazorLayout\\Layout\\TopNavLayout.razor",
               "RelativeDocumentMoniker": "Layout\\TopNavLayout.razor",
               "ToolTip": "C:\\Users\\steli\\source\\repos\\BlazorLayout\\Layout\\TopNavLayout.razor",
               "RelativeToolTip": "Layout\\TopNavLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-10T21:44:18.913Z",
+              "WhenOpened": "2025-11-12T17:52:26.252Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\steli\\source\\repos\\BlazorLayout\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\steli\\source\\repos\\BlazorLayout\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T19:22:26.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\steli\\source\\repos\\BlazorLayout\\App.razor",
-              "RelativeDocumentMoniker": "App.razor",
-              "ToolTip": "C:\\Users\\steli\\source\\repos\\BlazorLayout\\App.razor",
-              "RelativeToolTip": "App.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-10T21:43:05.941Z",
+              "Title": "TopNavMenu.razor.css",
+              "DocumentMoniker": "C:\\Users\\steli\\source\\repos\\BlazorLayout\\Layout\\TopNavMenu.razor.css",
+              "RelativeDocumentMoniker": "Layout\\TopNavMenu.razor.css",
+              "ToolTip": "C:\\Users\\steli\\source\\repos\\BlazorLayout\\Layout\\TopNavMenu.razor.css",
+              "RelativeToolTip": "Layout\\TopNavMenu.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-12T19:19:42.288Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\steli\\source\\repos\\BlazorLayout\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "Layout\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\steli\\source\\repos\\BlazorLayout\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-10T21:42:01.149Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\steli\\source\\repos\\BlazorLayout\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "wwwroot\\index.html",
               "ToolTip": "C:\\Users\\steli\\source\\repos\\BlazorLayout\\wwwroot\\index.html",
               "RelativeToolTip": "wwwroot\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-11-10T20:31:10.144Z",
+              "WhenOpened": "2025-11-12T19:14:36.442Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "TopNavFooter.razor.css",
+              "DocumentMoniker": "C:\\Users\\steli\\source\\repos\\BlazorLayout\\Layout\\TopNavFooter.razor.css",
+              "RelativeDocumentMoniker": "Layout\\TopNavFooter.razor.css",
+              "ToolTip": "C:\\Users\\steli\\source\\repos\\BlazorLayout\\Layout\\TopNavFooter.razor.css",
+              "RelativeToolTip": "Layout\\TopNavFooter.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-12T19:52:33.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "app.css",
               "DocumentMoniker": "C:\\Users\\steli\\source\\repos\\BlazorLayout\\wwwroot\\css\\app.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\app.css",
               "ToolTip": "C:\\Users\\steli\\source\\repos\\BlazorLayout\\wwwroot\\css\\app.css",
               "RelativeToolTip": "wwwroot\\css\\app.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAHQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-11-10T20:30:55.176Z",
+              "WhenOpened": "2025-11-12T19:32:20.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TopNavFooter.razor",
+              "DocumentMoniker": "C:\\Users\\steli\\source\\repos\\BlazorLayout\\Layout\\TopNavFooter.razor",
+              "RelativeDocumentMoniker": "Layout\\TopNavFooter.razor",
+              "ToolTip": "C:\\Users\\steli\\source\\repos\\BlazorLayout\\Layout\\TopNavFooter.razor",
+              "RelativeToolTip": "Layout\\TopNavFooter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T17:41:25.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "C:\\Users\\steli\\source\\repos\\BlazorLayout\\Layout\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "Layout\\NavMenu.razor.css",
+              "ToolTip": "C:\\Users\\steli\\source\\repos\\BlazorLayout\\Layout\\NavMenu.razor.css",
+              "RelativeToolTip": "Layout\\NavMenu.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-12T19:31:34.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\steli\\source\\repos\\BlazorLayout\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\steli\\source\\repos\\BlazorLayout\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-12T19:32:44.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "themes.css",
+              "DocumentMoniker": "C:\\Users\\steli\\source\\repos\\BlazorLayout\\wwwroot\\css\\themes.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\themes.css",
+              "ToolTip": "C:\\Users\\steli\\source\\repos\\BlazorLayout\\wwwroot\\css\\themes.css",
+              "RelativeToolTip": "wwwroot\\css\\themes.css",
+              "ViewState": "AgIAAHoBAAAAAAAAAAAAAJUBAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-12T18:53:43.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TopNavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\steli\\source\\repos\\BlazorLayout\\Layout\\TopNavMenu.razor",
+              "RelativeDocumentMoniker": "Layout\\TopNavMenu.razor",
+              "ToolTip": "C:\\Users\\steli\\source\\repos\\BlazorLayout\\Layout\\TopNavMenu.razor",
+              "RelativeToolTip": "Layout\\TopNavMenu.razor",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwDoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T21:52:02.351Z",
               "EditorCaption": ""
             }
           ]

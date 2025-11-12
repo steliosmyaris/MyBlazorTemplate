@@ -32,10 +32,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XFRvcE5hdkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/steli/source/repos/BlazorLayout/Layout/TopNavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XFRvcE5hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/steli/source/repos/BlazorLayout/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -59,3 +55,11 @@ build_metadata.AdditionalFiles.CssScope = b-ptw96lfoj8
 [C:/Users/steli/source/repos/BlazorLayout/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-pvtom8aw5v
+
+[C:/Users/steli/source/repos/BlazorLayout/Layout/TopNavFooter.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XFRvcE5hdkZvb3Rlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-6v9uw04pdi
+
+[C:/Users/steli/source/repos/BlazorLayout/Layout/TopNavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XFRvcE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-pyi2laq654

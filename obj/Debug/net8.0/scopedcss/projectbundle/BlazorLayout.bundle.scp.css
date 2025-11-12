@@ -160,3 +160,37 @@ main[b-ptw96lfoj8] {
         overflow-y: auto;
     }
 }
+/* /Layout/TopNavFooter.razor.rz.scp.css */
+.footerStyle[b-6v9uw04pdi]{
+    background-color: var(--cf-theme-900);
+}
+
+.footerStyle a[b-6v9uw04pdi]{
+    color: var(--cf-theme-200);
+}
+
+.footerStyle a:hover[b-6v9uw04pdi]{
+    color: var(--cf-theme-core);
+}
+
+.bi[b-6v9uw04pdi] {
+    font-size: 1.5rem;
+    padding-inline-start: 0.5rem;
+}
+/* /Layout/TopNavMenu.razor.rz.scp.css */
+.navStyle[b-pyi2laq654]{
+    background-color: var(--cf-theme-850);
+}
+
+.nav-item[b-pyi2laq654]{
+    --bs-navbar-hover-color: var(--cf-theme-400);
+    --bs-nav-link-hover-color: var(--cf-theme-400);
+}
+
+.dropdown-menu[b-pyi2laq654] {
+    background-color: var(--cf-theme-900);
+}
+
+.dropdown:has(.nav-link.active) .dropdown-toggle[b-pyi2laq654] {
+    color: var(--bs-navbar-active-color);
+}
