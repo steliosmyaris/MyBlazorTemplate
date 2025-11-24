@@ -1,0 +1,38 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Stylianos Myaris",
+  "classifications": [
+    "Web",
+    "Blazor",
+    "WebAssembly"
+  ],
+  "identity": "steliosmyaris",
+  "name": "Blazor WebAssembly Ready Layout",
+  "shortName": "WasmLayout",
+  "sourceName": "BlazorLayout",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "guids": [
+    "FAE04EC0-301F-11D3-BF4B-00C04F79EFBC",
+    "D10223C1-294B-453F-ADA8-3894E0A35AF7",
+    "9F5DFA13-7BD4-41DE-96C7-68A9D5D07F58"
+  ],
+  "preferNameDirectory": true,
+  "sources": [
+    {
+      "exclude": [
+        ".git/**",
+        ".github/**",
+        ".gitignore",
+        ".gitattributes",
+        ".template.config/**",
+        ".vs/**",
+        "**/bin/**",
+        "**/obj/**",
+        "README.md"
+      ]
+    }
+  ]
+}

@@ -1036,6 +1036,7 @@ C:\Users\steli\source\repos\BlazorLayout\obj\Debug\net8.0\BlazorLayout.dll
 C:\Users\steli\source\repos\BlazorLayout\obj\Debug\net8.0\refint\BlazorLayout.dll
 C:\Users\steli\source\repos\BlazorLayout\obj\Debug\net8.0\BlazorLayout.pdb
 C:\Users\steli\source\repos\BlazorLayout\obj\Debug\net8.0\ref\BlazorLayout.dll
-C:\Users\steli\source\repos\BlazorLayout\obj\Debug\net8.0\compressed\7n8cgp2cpn-khug1hccjw.gz
-C:\Users\steli\source\repos\BlazorLayout\obj\Debug\net8.0\compressed\10m3q0xtl0-c85dh2xqq0.gz
-C:\Users\steli\source\repos\BlazorLayout\obj\Debug\net8.0\compressed\01adp7vhg9-qt9w4kvg3f.gz
+C:\Users\steli\source\repos\BlazorLayout\obj\Debug\net8.0\scopedcss\Pages\Home.razor.rz.scp.css
+C:\Users\steli\source\repos\BlazorLayout\obj\Debug\net8.0\compressed\7n8cgp2cpn-thl18ukrzb.gz
+C:\Users\steli\source\repos\BlazorLayout\obj\Debug\net8.0\compressed\10m3q0xtl0-hfwbihwj7j.gz
+C:\Users\steli\source\repos\BlazorLayout\obj\Debug\net8.0\compressed\01adp7vhg9-cdjhbw178m.gz

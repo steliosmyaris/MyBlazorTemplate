@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Kr/v4HfyJ1w=",
+  "dgSpecHash": "f6/7BJYu08Q=",
   "success": true,
   "projectFilePath": "C:\\Users\\steli\\source\\repos\\BlazorLayout\\BlazorLayout.csproj",
   "expectedPackageFiles": [
@@ -30,8 +30,7 @@
     "C:\\Users\\steli\\.nuget\\packages\\microsoft.jsinterop.webassembly\\8.0.21\\microsoft.jsinterop.webassembly.8.0.21.nupkg.sha512",
     "C:\\Users\\steli\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.21\\microsoft.net.illink.tasks.8.0.21.nupkg.sha512",
     "C:\\Users\\steli\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\9.0.10\\microsoft.net.sdk.webassembly.pack.9.0.10.nupkg.sha512",
-    "C:\\Users\\steli\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
-    "C:\\Users\\steli\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.21\\microsoft.netcore.app.runtime.mono.browser-wasm.8.0.21.nupkg.sha512"
+    "C:\\Users\\steli\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

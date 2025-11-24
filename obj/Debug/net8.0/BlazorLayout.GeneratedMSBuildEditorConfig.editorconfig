@@ -36,8 +36,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/steli/source/repos/BlazorLayout/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+[C:/Users/steli/source/repos/BlazorLayout/Pages/Themes.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGhlbWVzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/steli/source/repos/BlazorLayout/Pages/Weather.razor]
@@ -63,3 +63,7 @@ build_metadata.AdditionalFiles.CssScope = b-6v9uw04pdi
 [C:/Users/steli/source/repos/BlazorLayout/Layout/TopNavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XFRvcE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-pyi2laq654
+
+[C:/Users/steli/source/repos/BlazorLayout/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-rt9dd4eb3a

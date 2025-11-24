@@ -11,5 +11,5 @@ wwwroot\images\__MACOSX\._LandingPageBG.png
 wwwroot\images\__MACOSX\._LandingPageLogo.png
 wwwroot\images\__MACOSX\._MagicCodeHLogo.png
 wwwroot\images\__MACOSX\._MagicCodeSquareLogo.png
-wwwroot\sample-data\weather.json
 wwwroot\index.html
+wwwroot\sample-data\weather.json

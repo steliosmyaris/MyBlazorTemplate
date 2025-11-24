@@ -194,3 +194,45 @@ main[b-ptw96lfoj8] {
 .dropdown:has(.nav-link.active) .dropdown-toggle[b-pyi2laq654] {
     color: var(--bs-navbar-active-color);
 }
+/* /Pages/Home.razor.rz.scp.css */
+.pageStyle[b-rt9dd4eb3a] {
+    background: url(images/LandingPageBG.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.title[b-rt9dd4eb3a]{
+    font-family: var(--cf-title-font);
+    font-size: 3rem;
+    color: var(--cf-title-color);
+    line-height: 3rem;
+}
+
+.subTitle[b-rt9dd4eb3a] {
+    font-size: 1rem;
+    font-family: var(--cf-body-font);
+}
+
+.devicons[b-rt9dd4eb3a] {
+    font-size: 2rem;
+
+}
+
+@media (min-width: 992px) {
+    .title[b-rt9dd4eb3a] {
+        font-family: var(--cf-title-font);
+        font-size: 3.5rem;
+        color: var(--cf-title-color);
+        line-height: 3rem;
+    }
+
+    .subTitle[b-rt9dd4eb3a] {
+        font-size: 1.5rem;
+        font-family: var(--cf-body-font);
+    }
+
+    .devicons[b-rt9dd4eb3a] {
+        font-size: 2.5rem;
+    }
+}
